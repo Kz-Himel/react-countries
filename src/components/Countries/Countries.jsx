@@ -24,7 +24,7 @@ const Countries = ({fetchCountries}) => {
     return (
 
         <>
-        <h1>There are {countries.length} Countres </h1>
+        <h1>There are {countries.length} Countries </h1>
         <h2>Total Country Visited: {visitedCountries.length} </h2>
         <ol>
             {
