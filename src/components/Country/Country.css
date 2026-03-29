@@ -1,0 +1,17 @@
+.country {
+    border: 2px solid crimson;
+    margin: 20px;
+    padding: 20px;
+}
+
+button {
+    background: #000;
+    padding: 5px 8px;
+    border: 2px solid lightcoral;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.country-visited {
+    background-color: aquamarine;
+}
